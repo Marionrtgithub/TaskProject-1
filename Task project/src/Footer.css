@@ -1,0 +1,7 @@
+p{
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    border-top: 1px solid var(--theme-border) ;
+    padding: 20px 10px;
+}
